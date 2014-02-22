@@ -2,6 +2,9 @@ ChessGameJava
 =============
 
 That is one of some programming exercises i created
+can you read more about that assignment in this link
+http://codemasry.com/media/oop/jun13/files/Chess%20Project_1.pdf
+
 
 start
 
